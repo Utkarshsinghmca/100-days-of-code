@@ -1,5 +1,6 @@
 # 100-days-of-code
-100 Days of Code Challenge has been initiated by freeCodeCamp and Alexander Kallaway is doing awesome work for the good of community. We are initiating this challenge for our College Students at MCA (KIET Group of Institutions, Ghaziabad) and would be working with similar set of rules and guidelines.
+100 Days of Code Challenge has been initiated by freeCodeCamp and Alexander Kallaway is doing awesome work for the good of community.I am taking part in 100 Days Code Challenge at KIET MCA, where I would be posting my code at (https://lnkd.in/fnGGMY6) for next 100 days. This is my public announcement and now I would be doing code for at-least 1 hour daily."
+#100DaysOfCode at #KIETMCA
 
 ## My public announcement 
 1. [Twitter Commitment](https://twitter.com/Utkarsh__Singh/status/1013398528327061505)
