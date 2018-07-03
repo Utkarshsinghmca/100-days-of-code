@@ -1,5 +1,4 @@
 function show(){
-
 var i, no, fact;
 fact=1;
 no=Number(document.getElementById("num").value);
